@@ -1,0 +1,9 @@
+input
+output_*
+scripts
+*.test
+.idea
+ignore
+__pycache__
+*.png
+*.pyc
